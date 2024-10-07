@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.store {
+    width: 100vw;
+    box-sizing: border-box;
+    max-width: 1200px;
+    padding: 10px;
+    background-color: white;
+}
